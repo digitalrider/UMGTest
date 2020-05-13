@@ -1,2 +1,2 @@
-# UMGTest
-Share and Test the UMG stuffs on Unreal.
+# UMG Test
+ Various tests for Unreal UMG
